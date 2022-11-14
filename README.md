@@ -15,8 +15,12 @@ Here are some ideas to get you started:
 ## いらっしゃいませ (Irasshaimase), I am [Mohammad Reza](https://github.com/mrzptra)
 
 [![YouTube Badge](https://img.shields.io/badge/-Reza%20ID-c4302b?style=flat-square&labelColor=c4302b&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCdf0f7fRF4tKK5xPKo5sj2w)](https://www.youtube.com/channel/UCdf0f7fRF4tKK5xPKo5sj2w) [![Twitter Badge](https://img.shields.io/badge/-mrzptra-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/mrzptra)](https://twitter.com/mrzptra) [![Instagram Badge](https://img.shields.io/badge/-rzptraaa-F44747?style=flat-square&labelColor=F44747&logo=instagram&logoColor=white&link=https://instagram.com/rzptraaa)](https://instagram.com/rzptraaa) [![Github Badge](https://img.shields.io/badge/-mrzptra-black?style=flat-square&logo=Github&logoColor=white&link=https://www.github.com/mrzptra/)](https://www.github.com/mrzptra/)
-[![Gmail Badge](https://img.shields.io/badge/-whoisreza01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whoisreza01@gmail.com)](mailto:whoisreza01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-whoisreza01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:whoisreza01@gmail.com)](mailto:whoisreza01@gmail.com) [![Personal Badge](https://img.shields.io/badge/-rzptra.my.id-black?style=flat-square&label=SITE&logoColor=white&link=https://www.rzptra.my.id/)](https://www.rzptra.my.id) [![Personal Badge](https://img.shields.io/badge/-kinekarublog-black?style=flat-square&label=BLOG&logoColor=white&link=http://www.kinekaru-sec.blogspot.com/)](http://www.kinekaru-sec.blogspot.com)
 
-
-### My personal website - [rzptra.my.id](https://rzptra.my.id)
-### My personal blogspot - [kinekaru-sec](https://kinekaru-sec.blogspot.com)
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrzptra&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my repository.</small>
+  <br />
+  <br />
+</div>
